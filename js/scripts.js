@@ -8,7 +8,10 @@ var pigLatin = function(word) {
     if (ipsy >= 0) {
       return word1 = word1 + "ay";
     }
-
+    else {
+      word1 = word1.slice(1);
+      return word1 + firstLetter + "ay";
+    }
 
 };
 
