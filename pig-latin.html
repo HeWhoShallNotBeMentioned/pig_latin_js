@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <script src="js/jquery-1.11.3.js"></script>
+  <script src="js/scripts.js"></script>
+  <title>Pig Latin</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Pig Latin Translator</h1>
+    <h2>Enter in a word or a sentence down below and click the button to make the magic happen.</h2>
+    <form id="pig-latin">
+      <div class="form-group">
+        <label for="word">Your sentence:</label>
+        <input id="word" type="text">
+      </div>
+
+      <button type="submit" class="btn">Magic Button</button>
+    </form>
+
+    <div id="result">
+      <p>We took "<span class="word"></span>" and turned it into "<span class="result"></span>".</p>
+    </div>
+  </div>
+</body>
+</html>
