@@ -1,19 +1,16 @@
 # pig_latin_js
 
-binaryConverter_to_Decimal_js
-Will convert a binary number to a decimal number with a web front end.
+{Will convert a word or sentence into pig latin.}, {September 10, 2015}
 
-{Will convert a binary number to a decimal number with a web front end..}, {September 10, 2015}
-
-By {Chris Underwood & Tim Kellogg}
+By {Chris Underwood & Corrie Smith}
 
 Description
 
-{Allows a user to enter a binary # (ex. 1001.} and a base number to convert it against (ex 2)
+{Will convert a word or sentence into pig latin. Once the button is pressed, the transalated text will appear beneath.}
 
 Setup
 
-Download files. Open the bases.html document in the browser. The program should be ready to run.
+Download files. Open the pig-latin.html document in the browser. The program should be ready to run.
 
 Technologies Used
 
@@ -21,7 +18,7 @@ Technologies Used
 
 Legal
 
-Copyright (c) 2015 {Chris Underwood & Tim Kellogg}
+Copyright (c) 2015 {Chris Underwood & Corrie Smith}
 
 This software is licensed under the MIT license.
 
